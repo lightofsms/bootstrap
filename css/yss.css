@@ -1,0 +1,18 @@
+
+p {
+    color: yellow;
+}
+
+
+
+.test p {
+    color: red;
+}
+
+.text-center p {
+    color: #2aabd2;
+}
+
+div em{
+    color:#5cb85c;
+}
